@@ -1,2 +1,3 @@
-# github_terraform_setup
+# README
+
 This repo created by Terraform
