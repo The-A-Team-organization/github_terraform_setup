@@ -59,6 +59,6 @@ resource "github_repository_pull_request" "example" {
   base_repository = github_repository.iluminati.name
   base_ref        = "main"
   head_ref        = github_branch.workflow_config.branch
-  title           = "THEATEAM-0: set up basic config for repo"
+  title           = "TAT-0: set up basic config for repo"
   body            = file("files_to_parse/pr_description.md")
 }
