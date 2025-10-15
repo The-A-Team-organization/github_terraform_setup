@@ -21,4 +21,3 @@ make apply
 ```
 
 And wait until the repo is created!
-
